@@ -1,4 +1,4 @@
-# 도란도란
+# 아이조아
 
 ![localhost_5173_ (1)](https://github.com/user-attachments/assets/647c6578-bf16-4e3f-887e-b6813008be0c)
 
@@ -9,32 +9,34 @@
 
 ## ✅ 멤버소개
 
-![Untitled](assets/팀원.png)
+아이조아 멤버소개 이미지
 
 ## ✅ 기술스택
 <table>
     <tr>
         <td><b>Back-end</b></td>
-        <td>![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-<img src="https://img.shields.io/badge/Spring Boot-3.0.6-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring Security-3.0.4-6DB33F?style=flat-square&logo=Spring Security&logoColor=white"/>
-<br>
-<img src="https://img.shields.io/badge/MySQL-8.0-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
-<img src="https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=Hibernate&logoColor=white"/>
-<br>
-<img src="https://img.shields.io/badge/Gradle-C71A36?style=flat-square&logo=Gradle&logoColor=white"/>
-<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=JSON Web Tokens&logoColor=white"/>
+        <td><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white"/>
+            <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Elastic%20Search-005571?style=flat-square&logo=Elasticsearch&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/>
+            <img src="https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=Hibernate&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=Redis&logoColor=white"/>
+            <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=flat-square&logo=Amazon S3&logoColor=white"/>
 
 </td>
     </tr>
     <tr>
     <td><b>Front-end</b></td>
     <td>
-<img src="https://img.shields.io/badge/Npm-6.14.18-CB3837?style=flat-square&logo=Npm&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node-14.21.3-339933?style=flat-square&logo=Node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-18.2.0-61DAFB?style=flat-square&logo=React&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redux-4.2.1-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Npm-CB3837?style=flat-square&logo=Npm&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node-339933?style=flat-square&logo=Node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Seeso-E5FF25?style=flat-square&logo=seeso&logoColor=white"/>
 <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
@@ -43,10 +45,10 @@
     <tr>
     <td><b>Infra</b></td>
     <td>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon aws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-4479A1?style=flat-square&logo=Docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/NGINX-1.18.0(Ubuntu)-009639?style=flat-square&logo=NGINX&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jenkins-2.332.1-D24939?style=flat-square&logo=Jenkins&logoColor=white"/>
+<img src="https://img.shields.io/badge/NGINX(Ubuntu)-009639?style=flat-square&logo=NGINX&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon aws&logoColor=white"/>
 </td>
     <tr>
     <td><b>Tools</b></td>
@@ -62,41 +64,45 @@
 
 ## ✅ 아키텍쳐
 
-![Untitled](assets/아키텍처.png)
+아이조아 아키텍쳐 이미지
 
 ## ✅ 프로젝트 소개
 
 **🚩 서비스 한줄 소개**
 
-부모의 목소리로 읽어주는 동화낭독 서비스 “**도란도란**”
+아이들의 독서 습관과 흥미를 키우는 맞춤형 독서 플랫폼 "**아이조아**"
 
-▪️**기획의도 및 배경**
+▪️ **기획의도 및 배경**
 
-[문제제기]
+[문제 제기]
 
-맞벌이 가정의 증가로 아이가 혼자 있는 시간이 많아짐
-
- → 부모와의 물리적, **심리적 거리가 멀어지고** 외벌이 가족과 비교했을 때 상대적으로 **정서적 스트레스, 불안감**을 느끼는 아이가 많아짐.
+부모님의 바쁜 일상으로 인해 아이들에게 책을 읽어주는 데 어려움이 있고, <br>
+아이들은 집중력이 부족하거나 종이책에 대한 흥미를 느끼지 못해 독서 습관 형성에 어려움을 겪고 있음.
 
 [솔루션 도출]
 
-부모의 목소리를 AI를 통해 동화를 낭독하여, 아이의 정서적 안정감을 채워주자
+아이들의 독서 집중력과 흥미를 높이기 위해 부모 목소리 동화 낭독, 집중도 분석, <br>
+흥미 유발 질문, 독서 패턴 분석 기능을 통합한 맞춤형 독서 환경을 설계
 
-▪️**서비스 목적**
+▪️ **서비스 목적**
 
-- AI를 활용한 부모의 목소리를 통해 부모와 아이의 심리적 거리를 좁혀주고 아이에게 심리적 안정감을 제공하는 것.
+AI를 활용한 목소리 학습을 통해 아이들이 독서에 흥미를 느낄 수 있게 하고, <br>
+아이트래킹 기술을 활용한 시선 추적을 통해 꾸준한 독서 습관을 형성할 수 있도록 돕는 것.
 
-▪️**서비스 목표**
+▪️ **서비스 목표**
 
-- 부모의 목소리를 녹음하여 가상의 목소리 생성
-- 위에서 생성된 목소리를 활용한 동화 낭독
-- 그 외, 부모 아이간 유대감을 형성할 수 있는 컨텐츠 제작 (편지, 앨범 등)
+- 부모님과 선생님 등 아이들에게 책을 읽어줄 수 있는 음성 데이터 생성
+- 생성된 음성을 활용한 동화책 낭독 기능 제공
+- 아이트래킹 기술로 아이의 시선을 추적하여 관심사와 독서 집중 패턴 분석
+- 동화책 내용과 관련된 퀴즈를 통해 독서 흥미 유발
+- 퀴즈에 대한 아이의 음성 답변을 확인하여 관심사를 파악하고, 부모와 아이 간의 유대감 형성 지원 
 
-▪️**기대효과**
+▪️ **기대효과**
 
-- 부모 아이간 물리적으로 거리가 멀어도, 동화를 직접 읽어주었을때의 긍정적 효과를 얻을 수 있음
-- 부모 아이간 정서적 안정감, 유대감 형성
-- 아이가 책에 대한 친밀감 형성
+- 아이들의 독서 습관 형성
+- 부모와 아이 간의 유대감 강화
+- 독서 흥미와 집중력 향상
+- 부모의 시간 절약 및 편의성 제공
 
 ## ✅ 기능 소개
 
@@ -110,8 +116,7 @@
     </tr>
     <tr> 
         <td>
-            1. 아이 친화적인 UI<br>
-            2. 애니메이션과 배경음을 사용하여 흥미를 유도
+            - 아이 친화적인 UI<br>
         </td>
 </table>
 
@@ -119,8 +124,8 @@
 
 <table>    
     <tr align="center" > 
-        <td><strong>아이 로그인</strong></td>
-        <td><strong>부모 로그인</strong></td>
+        <td><strong>회원가입</strong></td>
+        <td><strong>로그인</strong></td>
     </tr>
     <tr align="center"> 
         <td> <img src= "assets/아이/아이로그인.gif"> </td>
@@ -128,11 +133,12 @@
     </tr>
     <tr> 
         <td>
-            1. 초대 코드를 이용한 로그인<br>
-            2. 계정에 등록되어 있는 멀티 프로필 선택 가능
+            - 이메일, 이메일 인증, 비밀번호, 비밀번호 확인, <br>
+            닉네임 입력을 통한 회원가입
         </td>
         <td>
-            1. 소셜 로그인을 사용한 로그인<br> 
+            - 서비스 자체 로그인<br>
+            - 이메일, 비밀번호 입력을 통한 로그인
         </td>
 </table>
 
@@ -140,30 +146,34 @@
 
 <table>    
     <tr align="center" > 
-        <td><strong>아이 메인</strong></td>
         <td><strong>부모 메인</strong></td>
+        <td><strong>자녀 메인</strong></td>
     </tr>
     <tr align="center"> 
-        <td> <img src= "assets/아이/아이메인.gif"> </td>
         <td> <img src= "assets/부모/부모메인.gif"> </td>
+        <td> <img src= "assets/아이/자녀메인.gif"> </td>
     </tr>
     <tr> 
         <td>
-            1. 아이를 위한 직관적이고 귀여운 UI<br>
+            - 자녀 이름, 생년월일, 성별 정보 등록을 통해 자녀 계정 생성<br>
+            - 자녀 목록 조회<br>
+            - 자녀 정보 수정 및 삭제<br>
+            - 자녀 프로필 클릭을 통해 자녀 계정으로 이동
         </td>
         <td>
-            1. 해당 월에 할인, 소비한 금액을 확인 가능<br>
-            2. 하단 바코드를 통해 오프라인 결제 가능
+            - 나이대 별 인기 동화, 맞춤형 추천 동화, 카테고리 별 동화 목록 조회<br>
+            - 전체 동화 목록 조회 및 검색<br>
+            - 동화 완독 여부(뱃지) 및 진행 상태바 확인 
         </td>
 </table>
 
 ## 아이 기능
 
-### 동화 낭독
+### 동화책 읽기
 
 <table>    
     <tr align="center" > 
-        <td><strong>동화 낭독</strong></td>
+        <td><strong>책 읽어주기 목소리 선택</strong></td>
         <td><strong>동화 낭독</strong></td>
     </tr>
     <tr align="center"> 
@@ -172,9 +182,54 @@
     </tr>
     <tr> 
         <td>
+            - 동화를 읽어줄 목소리 선택<br>
+            - 닫기 버튼 클릭 시, 읽어주기 기능 off<br>
+            - 처음 읽는 책이라면 '동화책 읽기', <br>읽는 중인 책이라면 '이어서 읽기' 또는 '처음부터 읽기' 중 선택
+        </td>
+        <td>
+            - 선택한 목소리로 동화 스크립트 낭독 (다시 듣기 가능)<br>
+            - 스크립트와 맞는 이미지를 통한 가독성 향상<br>
+            - 사이드의 화살표 클릭으로 이전 페이지, 다음 페이지로 이동<br>
+            - 아이의 시선 이탈 지속될 시 집중 유도를 위한 알림 및 동화 내용 관련 퀴즈 유도 
+        </td>
+</table>
+
+<table>    
+    <tr align="center" > 
+        <td><strong>동화 메뉴</strong></td>
+        <td><strong>동화 퀴즈</strong></td>
+    </tr>
+    <tr align="center"> 
+        <td> <img src= "assets/아이/토끼와거북이.gif"> </td>
+        <td> <img src= "assets/아이/금도끼은도끼.gif"> </td>
+    </tr>
+    <tr> 
+        <td>
+            - 동화를 읽어줄 목소리 선택<br>
+            - 닫기 버튼 클릭 시, 읽어주기 기능 off<br>
+            - 처음 읽는 책이라면 '동화책 읽기', <br>읽는 중인 책이라면 '이어서 읽기' 또는 '처음부터 읽기' 중 선택
+        </td>
+        <td>
             1. 스크립와 부모님 목소리를 사용하여 동화 낭독 <br>
             2. 스크립트에 맞는 그림을 사용하여 가독성 향상 <br>
             3. 사이드의 화살표를 이용하여 이전, 다음 이동
+        </td>
+</table>
+
+<table>    
+    <tr align="center" > 
+        <td><strong>집중 유도 알림창</strong></td>
+        <td><strong>레벨업 및 독서완료 알림창</strong></td>
+    </tr>
+    <tr align="center"> 
+        <td> <img src= "assets/아이/토끼와거북이.gif"> </td>
+        <td> <img src= "assets/아이/금도끼은도끼.gif"> </td>
+    </tr>
+    <tr> 
+        <td>
+            - 동화를 읽어줄 목소리 선택<br>
+            - 닫기 버튼 클릭 시, 읽어주기 기능 off<br>
+            - 처음 읽는 책이라면 '동화책 읽기', <br>읽는 중인 책이라면 '이어서 읽기' 또는 '처음부터 읽기' 중 선택
         </td>
         <td>
             1. 스크립와 부모님 목소리를 사용하여 동화 낭독 <br>
@@ -306,30 +361,10 @@
 
 ## ✅ 활용기술, 기술 설명
 
-<details>
-<summary>아이에게 익숙한 커스텀 UI / UX</summary>
-</details>
-<details>
-<summary>RVC를 활용한 가상의 목소리 생성</summary>
-</details>
-<details>
-<summary>RabbitMq를 활용한 트래픽 완화</summary>
-    <img src="assets/플로우.png">
+- 아이 친화적인 UI / UX
+- AI를 활용한 음성 학습 데이터 생성
+- 아이트래킹을 활용한 시선 데이터 처리
 
-    **개요**
-
-    1. 녹음된 목소리를 활용하여 모델을 생성해야하는데 평균적으로 1시간 ~ 3시간 정도 소요됨.
-    2. 위의 과정을 스프링 <-> RVC Python Server 기존 아키텍처에서 수행했을 때 하나의 요청, 응답이 3시간 정도 소요됨.
-        - **응답이 처리되는동안 요청을 보낸 유저는 다른 작업을 수행 할 수 없으며**,
-        - "또한 파이썬 서버에서 **모델 학습, 추론이 별개로 일어날 수 있도록 "병렬 처리"**가 필요했음."
-            - 모델학습과 추론의 분산 -> GPU 효율 개선
-
-    **해결**
-
-    1. 기존 아키텍처 사이에 메세지 브로커인 RabbitMq를 적용 ( Spring Server <-> Rabbit Mq <-> Python Server )
-        - 요청 API에서 처리되어야 할 **모델 학습, 추론이 다른 API에게 위임**
-        - 프로세스를 분산시킴으로써 **효율이 올라가고, 체감 속도 개선**
-</details>
 
 ## ✅ 산출물
 <table>    
@@ -338,8 +373,8 @@
         <td><strong>API 명세서</strong></td>
     </tr>
     <tr align="center">
-        <td> <img src="assets/개발목업.png"></td>
-        <td> <img src="assets/api명세서.png"></td>
+        <td> <img src="https://github.com/user-attachments/assets/14f47563-fab9-4bfa-9f1a-214467f5ae4a"></td>
+        <td> <img src="https://github.com/user-attachments/assets/c70afb58-b73e-4f28-ae76-7788c84ba8d4"></td>
     </tr>
 </table>
 <table>
@@ -347,37 +382,27 @@
             <td><strong>ERD</strong></td>
         </tr>
     <tr align="center">
-            <td> <img src="assets/erd.png"> </td>
+            <td> <img src="https://github.com/user-attachments/assets/775587c5-9e63-47a2-a2c1-2d93f760e51b"> </td>
         </tr>
 </table>
 <br>
 <table>
     <tr align="center" > 
+        <th>5주차 번다운차트</th>
         <th>4주차 번다운차트</th>
         <th>3주차 번다운차트</th>
         <th>2주차 번다운차트</th>
         <th>1주차 번다운차트</th>
     </tr>
     <tr align="center">
-        <td> <img src="assets/4주차번다운차트.png"> </td>
-        <td><img src="assets/3주차번다운차트.png"></td>
-        <td><img src="assets/2주차번다운차트.png"></td>
-        <td><img src="assets/1주차번다운차트.png"></td>
+        <td> <img src="https://github.com/user-attachments/assets/273a9158-1381-4200-ae16-64393aa39ee5"> </td>
+        <td> <img src="https://github.com/user-attachments/assets/c2a09051-c1ee-4914-9d2a-a41338363692"> </td>
+        <td><img src="https://github.com/user-attachments/assets/210a4f17-bacb-47c5-b4c2-9cdcd969dfaa"></td>
+        <td><img src="https://github.com/user-attachments/assets/9c6097e6-b292-4a09-a63c-bf617f4d67de"></td>
+        <td><img src="https://github.com/user-attachments/assets/94331637-8348-4262-974b-82c88fcd87ff"></td>
     </tr>
 </table>
 
 
-## ✅ 파일구조
-<details>
-<summary>front</summary>
-</details>
-<details>
-<summary>back</summary>
-</details>
-<details>
-<summary>ai</summary>
-</details>
-
-
 ## ✅ 최종발표 ppt
-[발표 자료 링크](assets/발표자료/도란도란%20발표자료.pdf)
+아이조아 최종발표 ppt
